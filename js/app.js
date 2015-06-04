@@ -21,7 +21,7 @@ $(document).ready(function(){
     })
     .mouseup(function(){
         $('.ryu-action').hide();
-        $('.ryu-still').show();
+        $('.ryu-ready').show();
     });
 
 $(document).keydown(function(e) {
