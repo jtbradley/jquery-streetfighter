@@ -1,5 +1,11 @@
+@font-face{
+	font-family: comical;
+	src: url('../fonts/anime-ace.regular.ttf');
+}
+
 body {
 	background-color: black;
+	font-family: comical;
 }
 
 .main {
@@ -73,7 +79,7 @@ body {
 
 .instructions {
 	height: 350px;
-	width: 400px;
+	width: 500px;
 	float: right;
 	margin-right: 280px;
 }
